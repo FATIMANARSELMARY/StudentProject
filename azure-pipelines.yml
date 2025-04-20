@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: stuagent
+pool: studentagent
 
 steps:
 - task: Maven@4
