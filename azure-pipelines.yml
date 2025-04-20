@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: stuagent
 
 steps:
 - task: Maven@3
